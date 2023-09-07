@@ -4,11 +4,9 @@
 
 My name is Alex, and I'm a Fullstack developer with a strong foundation in JavaScript and a love for software architecture.
 
-- Background in motion design, exploring visual arts and animation.
-- Started coding journey with Python, now specializing in JavaScript.
-- Enjoys tackling challenges and transforming ideas into functional websites.
-- Thrives on problem-solving and finds joy in web development.
-- Appreciates the versatility and dynamism of JavaScript.
-
-
-
+- I am someone who comes from a background in motion design, exploring visual arts and animation.
+- I am the type of person who started my coding journey with Python and now specializes in JavaScript.
+- I am someone who enjoys tackling challenges and transforming ideas into functional websites.
+- I am driven by a strong passion for problem-solving and find joy in web development.
+- I am fascinated by the versatility and dynamism of JavaScript.
+- I am constantly seeking out learning opportunities in the field.
