@@ -9,6 +9,3 @@ My name is Alex, and I'm a Fullstack developer with a strong foundation in JavaS
 - I am driven by a strong passion for problem-solving and find joy in web development.
 - I am fascinated by the versatility and dynamism of JavaScript.
 - I am constantly seeking out learning opportunities in the field.
-
-<br>
-<br>
