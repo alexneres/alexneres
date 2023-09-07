@@ -1,4 +1,4 @@
-![banner](https://github.com/alexneres/alexneres/assets/92018151/2e92d53b-4bab-4009-94b5-a4dc895b90ba)
+![banner](https://github.com/alexneres/alexneres/assets/92018151/f54b236e-fc9d-4e79-863c-5a72eaa5bea3)
 <a href="https://www.linkedin.com/in/alexneresdev/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ## Hello, Folks! <img src="https://raw.githubusercontent.com/alexneres/alexneres/main/wave.gif" width="30px" height="30px" />
 
@@ -9,3 +9,6 @@ My name is Alex, and I'm a Fullstack developer with a strong foundation in JavaS
 - Enjoys tackling challenges and transforming ideas into functional websites.
 - Thrives on problem-solving and finds joy in web development.
 - Appreciates the versatility and dynamism of JavaScript.
+
+
+
