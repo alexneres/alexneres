@@ -14,10 +14,9 @@ My name is Alex, and I'm a Fullstack developer with a strong foundation in JavaS
 <br>
 <br>
 
-<div >
-    <img align='left' style='height:194px;' src='https://github-readme-stats.vercel.app/api?username=alexneres&show_icons=true&theme=dark' />
-    <img align='left' style='height:194px;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexneres&layout=compact&theme=dark' />
-</div>
+
+<img align='left' style='height:194px;' src='https://github-readme-stats.vercel.app/api?username=alexneres&show_icons=true&theme=dark' />
+<img align='left' style='height:194px;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexneres&layout=compact&theme=dark' />
 
 <br>
 <br>
